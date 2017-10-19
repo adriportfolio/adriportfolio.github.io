@@ -5,3 +5,9 @@ html {
 .grid {
     padding-right: 5%,
 }
+
+.owl-stage-outer {
+    border: gray;
+    border-width: 1px;
+    border-style: solid;
+}

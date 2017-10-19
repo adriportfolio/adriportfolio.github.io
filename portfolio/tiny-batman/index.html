@@ -110,6 +110,8 @@
      var boardCarousel = $('.owl-carousel');
      boardCarousel.owlCarousel({
          addClassActive:true,
+         smartSpeed: 1,
+         fluidSpeed: 1,
          center:true,
          dots:false,
          items:1,
@@ -118,7 +120,7 @@
          margin:10,
          nav:true,
          responsive: true,
-         stagePadding:20,
+         stagePadding:0,
      });
      window.goToBoard = function(n) {
          boardCarousel.trigger('to.owl.carousel', [n, 0]);

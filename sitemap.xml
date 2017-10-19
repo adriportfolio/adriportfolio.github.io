@@ -3,33 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://adriportfolio.github.io/portfolio/intro/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://adriportfolio.github.io/portfolio/youll-be-back-animatic/</loc>
   </url>
   
   <url>
-    <loc>https://adriportfolio.github.io/portfolio/maga/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://adriportfolio.github.io/portfolio/youll-be-back-1/</loc>
   </url>
   
   <url>
-    <loc>https://adriportfolio.github.io/portfolio/demon-sketch/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://adriportfolio.github.io/portfolio/youll-be-back-2/</loc>
   </url>
   
   <url>
-    <loc>https://adriportfolio.github.io/portfolio/perfectionism-demon/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://adriportfolio.github.io/portfolio/youll-be-back-3/</loc>
   </url>
   
   <url>
     <loc>https://adriportfolio.github.io/portfolio/tiny-batman/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adriportfolio.github.io/portfolio/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adriportfolio.github.io/portfolio/perfectionism-demon/</loc>
   </url>
   
   <url>
     <loc>https://adriportfolio.github.io/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -39,8 +41,15 @@
   </url>
   
   <url>
+    <loc>https://adriportfolio.github.io/portfolio/maga/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adriportfolio.github.io/portfolio/demon-sketch/</loc>
+  </url>
+  
+  <url>
     <loc>https://adriportfolio.github.io/portfolio/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   

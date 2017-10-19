@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://adriportfolio.github.io/portfolio/intro/</loc>
+    <loc>https://adriportfolio.github.io/portfolio/intro/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://adriportfolio.github.io/portfolio/maga/</loc>
+    <loc>https://adriportfolio.github.io/portfolio/maga/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://adriportfolio.github.io/portfolio/demon-sketch/</loc>
+    <loc>https://adriportfolio.github.io/portfolio/demon-sketch/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://adriportfolio.github.io/portfolio/perfectionism-demon/</loc>
+    <loc>https://adriportfolio.github.io/portfolio/perfectionism-demon/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://adriportfolio.github.io/portfolio/tiny-batman/</loc>
+    <loc>https://adriportfolio.github.io/portfolio/tiny-batman/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://adriportfolio.github.io/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://adriportfolio.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://adriportfolio.github.io/portfolio/</loc>
+    <loc>https://adriportfolio.github.io/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://adriportfolio.github.io/tags/</loc>
+    <loc>https://adriportfolio.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adriportfolio.github.io/portfolio/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adriportfolio.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

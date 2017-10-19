@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Adri Kelly&#39;s Storyboards</title>
+    <link>http://animadriac.com/portfolio/</link>
+    <description>Recent content in Portfolios on Adri Kelly&#39;s Storyboards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://animadriac.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing: Adri!</title>
+      <link>http://animadriac.com/portfolio/intro/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://animadriac.com/portfolio/intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make America GRATE Again</title>
+      <link>http://animadriac.com/portfolio/maga/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://animadriac.com/portfolio/maga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perfectionism Demon Sketch</title>
+      <link>http://animadriac.com/portfolio/demon-sketch/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://animadriac.com/portfolio/demon-sketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perfectionism Demon: Scene 1</title>
+      <link>http://animadriac.com/portfolio/perfectionism-demon/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://animadriac.com/portfolio/perfectionism-demon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiny Batman</title>
+      <link>http://animadriac.com/portfolio/tiny-batman/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://animadriac.com/portfolio/tiny-batman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

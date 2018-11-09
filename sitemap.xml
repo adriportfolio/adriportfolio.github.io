@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://adriportfolio.github.io/illustration/teeth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adriportfolio.github.io/portfolio/tiny-batman-done/</loc>
+  </url>
+  
+  <url>
     <loc>https://adriportfolio.github.io/portfolio/youll-be-back-animatic/</loc>
   </url>
   
@@ -16,6 +24,10 @@
   
   <url>
     <loc>https://adriportfolio.github.io/portfolio/youll-be-back-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adriportfolio.github.io/finished-boards/tiny-batman-done/</loc>
   </url>
   
   <url>
@@ -97,16 +109,17 @@
   </url>
   
   <url>
+    <loc>https://adriportfolio.github.io/finished-boards/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://adriportfolio.github.io/illustration/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://adriportfolio.github.io/portfolio/maga/</loc>
-  </url>
-  
-  <url>
-    <loc>https://adriportfolio.github.io/portfolio/demon-sketch/</loc>
   </url>
   
   <url>
@@ -117,6 +130,10 @@
   <url>
     <loc>https://adriportfolio.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adriportfolio.github.io/finished-boards/tiny-batman-gif/</loc>
   </url>
   
 </urlset>
